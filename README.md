@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanksinguva7
 - 👀 I’m interested in JS, Python, WedDev, AI, Machine Learning
 - 🌱 I’m currently learning JS, CSS, HTML, WebDev
-- 💞️ I’m looking to collaborate on WebDev
+-I’m looking to collaborate on WebDev
 - 📫 Reach out to me via email at shashank.inguva@outlook.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the rhymes "ABC" and "twinkle twinkle little star" have the same tune😂
