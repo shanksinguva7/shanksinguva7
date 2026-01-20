@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @shanksinguva7
 - 👀 I’m interested in JS, Python, WedDev, AI, Machine Learning
-- 🌱 I’m currently learning JS, CSS, HTML, WebDev
--I’m looking to collaborate on WebDev
-- 📫 Reach out to me via email at shashank.inguva@outlook.in
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: the rhymes "ABC" and "twinkle twinkle little star" have the same tune😂
+- 🌱 Full-stack developer | React • TypeScript • Java • Spring Boot | Building AI-powered applications
+  🔨 Currently: AI travel planner with Gemini + Appwrite
+- 📫 Reach out to me via email at shashank.inguvafwork@gmail.com
 
 <!---
 shanksinguva7/shanksinguva7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
